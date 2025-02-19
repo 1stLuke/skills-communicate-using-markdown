@@ -14,3 +14,7 @@ function istGerade(zahl) {
 console.log(istGerade(4)); // Ausgabe: true
 console.log(istGerade(7)); // Ausgabe: false
 ```
+## Task list exercise
+- [ ] Buy a new car
+- [ ] Sell the old car
+- [ ] Rent a bigger flat
